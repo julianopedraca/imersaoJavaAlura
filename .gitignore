@@ -37,4 +37,4 @@ build/
 .history
 
 ## key
-application.properties
+#application.properties
